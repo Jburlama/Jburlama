@@ -1,4 +1,4 @@
-### 👋 Hey there! I'm Jhonas,
+# 👋 Hey there! I'm Jhonas,
 a passionate software engineering student at 42 Porto.
 Currently exploring the fascinating world of programming and software development.
 I'm deeply engaged in honing my skills and mastering various technologies.
