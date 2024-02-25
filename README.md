@@ -6,3 +6,5 @@ My journey at 42 Porto has equipped me with a solid foundation in computer scien
 
 ## 🚀 Throughout my GitHub, you'll find a diverse collection of projects reflecting my interests and experiences
 I thrive on challenges and love diving into new technologies, continuously expanding my knowledge and pushing the boundaries of what I can create.
+
+![giphy](https://github.com/Jburlama/Jburlama/assets/132925534/b8a9678d-e6d2-44be-8a5a-546a6d71c0a5)
