@@ -6,5 +6,3 @@ My journey at 42 Porto has equipped me with a solid foundation in computer scien
 
 ## 🚀 Throughout my GitHub, you'll find a diverse collection of projects reflecting my interests and experiences
 I thrive on challenges and love diving into new technologies, continuously expanding my knowledge and pushing the boundaries of what I can create.
-
-![image](https://www.pngkit.com/png/detail/101-1010012_c-programming-icon-c-programming-language-logo.png)
