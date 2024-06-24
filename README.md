@@ -13,6 +13,7 @@ I thrive on challenges and love diving into new technologies, continuously expan
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-
-![Git](https://github.com/Jburlama/Jburlama/assets/132925534/e6e41ce1-0c06-4425-a9cb-c817171bd2e2)&nbsp;
+<p align="center">
+  <img src="(https://github.com/Jburlama/Jburlama/assets/132925534/fa0b6a71-4a27-4846-96a9-3f3a6d2beac5)" alt="ChillMario"/>
+</p>
 
