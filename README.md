@@ -14,6 +14,6 @@ I thrive on challenges and love diving into new technologies, continuously expan
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 <p align="center">
-  <img src="(https://github.com/Jburlama/Jburlama/assets/132925534/fa0b6a71-4a27-4846-96a9-3f3a6d2beac5)" alt="ChillMario"/>
+  <img src="https://github.com/Jburlama/Jburlama/assets/132925534/67df1c34-6e42-48e0-a7b9-bfc57d8a55ab"/>
 </p>
 
