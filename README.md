@@ -12,8 +12,3 @@ I thrive on challenges and love diving into new technologies, continuously expan
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-
-<p align="center">
-  <img src="https://github.com/Jburlama/Jburlama/assets/132925534/67df1c34-6e42-48e0-a7b9-bfc57d8a55ab"/>
-</p>
-
