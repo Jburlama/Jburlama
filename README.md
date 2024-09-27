@@ -8,3 +8,5 @@
 # ⭐ Projects
 [![libft](https://github.com/user-attachments/assets/2b732813-6fd0-4853-b026-8838129aa1f4)](https://github.com/Jburlama/libft) **My own c library**
 ---------------------
+[![ft_printf](https://github.com/user-attachments/assets/23b2f6d2-1d43-4445-b069-82c22be6fa1c)](https://github.com/Jburlama/ft_printf) **My inplementation of the c function printf**
+
