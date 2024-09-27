@@ -18,5 +18,8 @@
 [![Minitalk](https://github.com/user-attachments/assets/6c87dcc1-769f-4be8-9e2a-6276c677d905)](https://github.com/Jburlama/Minitalk) **a small data exchange program using UNIX signals.**
 ----------------------
 [![image](https://github.com/user-attachments/assets/09ae4331-1e0c-4b65-be0a-d80a7d4889b8)](https://github.com/Jburlama/pipex) **is about handling pipes, forks, and redirections of input and output.**
+----------------------
+[![image](https://github.com/user-attachments/assets/e9744bc0-3fa9-4ca3-822f-11e91b6aa54f)](https://github.com/Jburlama/fractol/blob/main/README.md) **visually stunning fractals.**
+
 
 
