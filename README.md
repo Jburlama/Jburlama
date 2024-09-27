@@ -1,2 +1,2 @@
-# 👋 Hello there, Im Jhonas!
-a passionate software developer studing at 42 Porto.
+# 👋 Hello there, I'm Jhonas!
+I am a passionate software developer studying at 42 Porto.
