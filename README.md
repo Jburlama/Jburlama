@@ -7,3 +7,4 @@
 
 # ⭐ Projects
 [![libft](https://github.com/user-attachments/assets/2b732813-6fd0-4853-b026-8838129aa1f4)](https://github.com/Jburlama/libft) **My own c library**
+---------------------
