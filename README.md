@@ -24,6 +24,8 @@
 [![image](https://github.com/user-attachments/assets/a49fddd7-f024-4974-b6ab-535cea08ec67)](https://github.com/Jburlama/Philosophers) **The dining philosophers problem**
 ----------------------
 [![image](https://github.com/user-attachments/assets/0302e89c-3109-4402-97ca-6739ca91e525)](https://github.com/Jburlama/minishell) **As beautiful as a shell**
+---------------------
+[![imagem](https://github.com/user-attachments/assets/5afc6ed1-cad3-4a6f-9ef2-50e961d5ec8a)](https://github.com/Jburlama/miniRT) **World of Raytracing**
 
 
 
