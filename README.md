@@ -31,7 +31,7 @@
 
 
 
-# Harvard's CS50 courses with certificates
+### Harvard's CS50 courses with certificates
 
 - ![CS50-SQL](https://github.com/Jburlama/CS50-SQL)
 - ![CS50-Python](https://github.com/Jburlama/CS50-Python)
