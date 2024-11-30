@@ -28,9 +28,12 @@
 [![imagem](https://github.com/user-attachments/assets/5afc6ed1-cad3-4a6f-9ef2-50e961d5ec8a)](https://github.com/Jburlama/miniRT) **World of Raytracing**
 
 
+
+
+
 # Harvard's CS50 courses with certificates
 
-![CS50-SQL](https://github.com/Jburlama/CS50-SQL)
-
+- ![CS50-SQL](https://github.com/Jburlama/CS50-SQL)
+- ![CS50-Python](https://github.com/Jburlama/CS50-Python)
 
 
