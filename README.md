@@ -1,8 +1,6 @@
-<p align="center">
-  <head>
+<head> align="center">
   <title>Hello there, I'm Jhonas and this is my software dump!!</title>
 </head>
-</p>
 
 ![pixel-jeff-waiting-ll-2](https://github.com/user-attachments/assets/b084c1b3-1a0d-4bf2-8d36-01e1487625de)
 
