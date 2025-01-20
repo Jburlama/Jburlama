@@ -1,4 +1,4 @@
-<head style="color: blue; text-align: center;">
+<head>
   <h1> ⭐ Hello there!!
   <h1> 🚀 I'm Jhonas and this is my software dump!!
 </head>
