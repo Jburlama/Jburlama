@@ -3,7 +3,19 @@
   <h1> 🚀 I'm Jhonas and this is my software dump!!
 </head>
 
+### Python
+
+[news](https://github.com/Jburlama/news)
+
+[weather](https://github.com/Jburlama/weather)
+
+[email_sender](https://github.com/Jburlama/email_sender)
+
+[scrape_appartments](https://github.com/Jburlama/scrape_apartments)
+
 ![pixel-jeff-waiting-ll-2](https://github.com/user-attachments/assets/b084c1b3-1a0d-4bf2-8d36-01e1487625de)
+
+
 
 # ⭐ 42 Projects
 
