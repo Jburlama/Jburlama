@@ -5,7 +5,7 @@
 
 ### Python
 
-[news](https://github.com/Jburlama/news)
+[news](https://github.com/Jburlama/news) | [books-to-scrape](https://github.com/Jburlama/books-to-scrape)
 
 [weather](https://github.com/Jburlama/weather)
 
