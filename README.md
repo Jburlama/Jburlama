@@ -1,5 +1,5 @@
 <head>
-  <h1> ⭐ Hello there!!
+  <h1 text-align=center> ⭐ Hello there!!
   <h1> 🚀 I'm Jhonas and this is my software dump!!
 </head>
 
