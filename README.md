@@ -6,8 +6,11 @@
 ### Python
 
 [news](https://github.com/Jburlama/news)
+
 [weather](https://github.com/Jburlama/weather)
+
 [email_sender](https://github.com/Jburlama/email_sender)
+
 [scrape_appartments](https://github.com/Jburlama/scrape_apartments)
 
 
