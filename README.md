@@ -7,7 +7,7 @@
 
 [news](https://github.com/Jburlama/news) | [books-to-scrape](https://github.com/Jburlama/books-to-scrape)
 
-[weather](https://github.com/Jburlama/weather)
+[weather](https://github.com/Jburlama/weather) | [scraper_amazon](https://github.com/Jburlama/scraper_amazon)
 
 [email_sender](https://github.com/Jburlama/email_sender)
 
