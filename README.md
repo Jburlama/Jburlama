@@ -9,7 +9,7 @@
 
 [weather](https://github.com/Jburlama/weather) | [scraper_amazon](https://github.com/Jburlama/scraper_amazon)
 
-[email_sender](https://github.com/Jburlama/email_sender)
+[email_sender](https://github.com/Jburlama/email_sender) | [imdb_scrape](https://github.com/Jburlama/imdb_scraper)
 
 [scrape_appartments](https://github.com/Jburlama/scrape_apartments)
 
