@@ -13,6 +13,16 @@
 
 [scrape_appartments](https://github.com/Jburlama/scrape_apartments)
 
+### C
+[Libft](https://github.com/Jburlama/libft) | [Ft_Printf](https://github.com/Jburlama/ft_printf) | [Get-Next-Line](https://github.com/Jburlama/get-next-line)
+
+[Push_Swap](https://github.com/Jburlama/PUSH_SWAP/tree/master) | [Minitalk](https://github.com/Jburlama/Minitalk) | [Pipex](https://github.com/Jburlama/pipex)
+
+[Fractol](https://github.com/Jburlama/fractol) | [Philosophers](https://github.com/Jburlama/Philosophers) | [Minishell](https://github.com/Jburlama/minishell)
+
+[MiniRt](https://github.com/Jburlama/miniRT) 
+
+
 
 
 ![pixel-jeff-waiting-ll-2](https://github.com/user-attachments/assets/b084c1b3-1a0d-4bf2-8d36-01e1487625de)
