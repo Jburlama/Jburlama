@@ -31,7 +31,7 @@
 | [Get-Next-Line](https://github.com/Jburlama/get-next-line) | A function that reads lines from files |
 | [Push_Swap](https://github.com/Jburlama/PUSH_SWAP/tree/master) | A sorting algorithm  |
 | [Minitalk](https://github.com/Jburlama/Minitalk) | A server-client program that exchanges data using UNIX signals |
-| [Pipex](https://github.com/Jburlama/pipex) | A project about pipes, redirection, and processes |
+| [Pipex](https://github.com/Jburlama/pipex) | A project about multi processes, pipes, and redirections |
 | [Fractol](https://github.com/Jburlama/fractol) | A program that renders fractals |
 | [Philosophers](https://github.com/Jburlama/Philosophers) | A multithreaded program |
 | [Minishell](https://github.com/Jburlama/minishell) | A program that mimics the behavior of bash |
