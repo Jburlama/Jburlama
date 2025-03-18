@@ -22,7 +22,7 @@
 
 ## C
 
-| Name | Description |
+| Project Name | Description |
 | ----| --------------|
 | [Libft](https://github.com/Jburlama/libft) | A c library |
 | [Ft_Printf](https://github.com/Jburlama/ft_printf) | A Function that mimics printf |
@@ -40,7 +40,7 @@
 
 ## Python
 
-| Name | Description |
+| Project Name | Description |
 | ----- | -----------|
 | [scrape_appartments](https://github.com/Jburlama/scrape_apartments) | A web scraping program for finding apartments in Porto |
 | [books-to-scrape](https://github.com/Jburlama/books-to-scrape) | A web scraping program for books |
