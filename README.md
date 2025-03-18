@@ -11,7 +11,7 @@
   
 ## Web
 
-| Project Name | Description | stack|
+| Project Name | Description | Stack|
 |--------|------------|-------------|
 | [Summay](https://github.com/Jburlama/summary) | A full-stack web application where I use AI to summarise YouTube videos | Pyhon, Django, SQLite, HTMX |
 | [Groceries](https://github.com/Jburlama/groceries) | A full-stack e-commerce web application. | Python, Django, SQLite, HTMLX |
@@ -19,7 +19,8 @@
 
 
 
-### C
+
+## C
 
 | Name | Description |
 | ----| --------------|
@@ -37,7 +38,7 @@
 
 
 
-### Python
+## Python
 
 [news](https://github.com/Jburlama/news) | [books-to-scrape](https://github.com/Jburlama/books-to-scrape)
 
