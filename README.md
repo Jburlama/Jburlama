@@ -40,14 +40,14 @@
 
 ## Python
 
-[news](https://github.com/Jburlama/news) | [books-to-scrape](https://github.com/Jburlama/books-to-scrape)
-
-[weather](https://github.com/Jburlama/weather) | [scraper_amazon](https://github.com/Jburlama/scraper_amazon)
-
-[email_sender](https://github.com/Jburlama/email_sender) | [imdb_scrape](https://github.com/Jburlama/imdb_scraper)
-
-[scrape_appartments](https://github.com/Jburlama/scrape_apartments)
-
+| Name | Description |
+| ----- | -----------|
+| [scrape_appartments](https://github.com/Jburlama/scrape_apartments) | A web scraping program for finding apartments in Porto |
+| [books-to-scrape](https://github.com/Jburlama/books-to-scrape) | A web scraping program for books |
+| [scraper_amazon](https://github.com/Jburlama/scraper_amazon) | A web scraping program for Amazon products |
+| [imdb_scrape](https://github.com/Jburlama/imdb_scraper) | A web scraping program for future film releases |
+| [news](https://github.com/Jburlama/news) | A program that locates articles worldwide |
+| [weather](https://github.com/Jburlama/weather) | A program that displays weather information |
 
 
 
