@@ -6,7 +6,7 @@
 
 ### 🔧 I have a strong interest in **embedded systems** and **web development** 🛠️. While I am capable of full-stack development, I prefer to focus most of my time on back-end ⚙️.
 
-<be>
+-----------------------------------
 
   
 ### Web
