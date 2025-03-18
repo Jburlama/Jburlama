@@ -11,9 +11,11 @@
   
 ## Web
 
-| [Summay](https://github.com/Jburlama/summary) | A full-stack web application where I use AI to summarise YouTube videos |
-|---------------------------------------------------|---------|  
-| [Groceries](https://github.com/Jburlama/groceries) | A full-stack e-commerce web application. |
+| Project Name | Description | Satck|
+|--------|------------|-------------|
+| [Summay](https://github.com/Jburlama/summary) | A full-stack web application where I use AI to summarise YouTube videos | Pyhon, Django, SQLite, HTMX |
+|---------------------------------------------------|---------|------------------------------------|
+| [Groceries](https://github.com/Jburlama/groceries) | A full-stack e-commerce web application. | Python, Django, SQLite, HTMLX |
 
 
 
