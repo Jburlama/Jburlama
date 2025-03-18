@@ -34,7 +34,7 @@
 | [Pipex](https://github.com/Jburlama/pipex) | A project about multi processes, pipes, and redirections |
 | [Fractol](https://github.com/Jburlama/fractol) | A program that renders fractals |
 | [Philosophers](https://github.com/Jburlama/Philosophers) | A multithreaded program |
-| [Minishell](https://github.com/Jburlama/minishell) | A program that mimics the behavior of bash |
+| [Minishell](https://github.com/Jburlama/minishell) | A shell that mimics the behavior of bash |
 | [MiniRt](https://github.com/Jburlama/miniRT) | A program that uses ray tracing to render objects |
 
 
