@@ -19,6 +19,24 @@
 
 
 
+### C
+
+| Name | Description |
+| ----| --------------|
+| [Libft](https://github.com/Jburlama/libft) | A c library |
+| [Ft_Printf](https://github.com/Jburlama/ft_printf) | A Function that mimics printf |
+| [Get-Next-Line](https://github.com/Jburlama/get-next-line) | A function that reads lines from files |
+| [Push_Swap](https://github.com/Jburlama/PUSH_SWAP/tree/master) | A sorting algorithm  |
+| [Minitalk](https://github.com/Jburlama/Minitalk) | A server-client program that exchanges data using UNIX signals |
+| [Pipex](https://github.com/Jburlama/pipex) | A project about pipes, redirection, and processes |
+| [Fractol](https://github.com/Jburlama/fractol) | A program that renders fractals |
+| [Philosophers](https://github.com/Jburlama/Philosophers) | A multithreaded program |
+| [Minishell](https://github.com/Jburlama/minishell) | A program that mimics the behavior of bash |
+| [MiniRt](https://github.com/Jburlama/miniRT) | A program that uses ray tracing to render objects |
+
+
+
+
 ### Python
 
 [news](https://github.com/Jburlama/news) | [books-to-scrape](https://github.com/Jburlama/books-to-scrape)
@@ -29,14 +47,6 @@
 
 [scrape_appartments](https://github.com/Jburlama/scrape_apartments)
 
-### C
-[Libft](https://github.com/Jburlama/libft) | [Ft_Printf](https://github.com/Jburlama/ft_printf) | [Get-Next-Line](https://github.com/Jburlama/get-next-line)
-
-[Push_Swap](https://github.com/Jburlama/PUSH_SWAP/tree/master) | [Minitalk](https://github.com/Jburlama/Minitalk) | [Pipex](https://github.com/Jburlama/pipex)
-
-[Fractol](https://github.com/Jburlama/fractol) | [Philosophers](https://github.com/Jburlama/Philosophers) | [Minishell](https://github.com/Jburlama/minishell)
-
-[MiniRt](https://github.com/Jburlama/miniRT) 
 
 
 
