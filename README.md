@@ -1,5 +1,11 @@
 # ⭐ Hello there!!
-## 🚀 I'm Jhonas and this is my software dump!!
+
+### My name is Jhonas, and I am a software developer currently studying at 42Porto. 
+
+### On my GitHub, you will find a variety of my personal projects, as well as projects from 42 school and other online certificates. I am most comfortable working with C, C++, Python, and SQL. 
+
+### I have a strong interest in embedded systems and web development. While I am capable of full-stack development, I prefer to focus most of my time on back-end.
+
 
 ### Web
 
