@@ -4,7 +4,7 @@
 
 💻 On my GitHub, you will find a variety of my personal projects, as well as projects from 42 school and other certificates 🏅.
 
-I am most comfortable working with **C, C++, Python, and SQL** 🐍💾.
+🐍 I am most comfortable working with **C, C++, Python, and SQL** 💾.
 
 🔧 I have a strong interest in **embedded systems** and **web development** 🛠️. While I am capable of full-stack development, I prefer to focus most of my time on back-end ⚙️.
 
