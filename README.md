@@ -6,8 +6,6 @@
 
 🐍 I am most comfortable working with **C, C++, Python, and SQL** 💾.
 
-🔧 I have a strong interest in **embedded systems** and **web development** 🛠️. While I am capable of full-stack development, I prefer to focus most of my time on back-end ⚙️.
-
 -----------------------------------
 
   
@@ -17,6 +15,7 @@
 |--------|------------|-------------|
 | [Summay](https://github.com/Jburlama/summary) | A full-stack web application where I use AI to summarise YouTube videos | Pyhon, Django, SQLite, HTMX |
 | [Groceries](https://github.com/Jburlama/groceries) | A full-stack e-commerce web application. | Python, Django, SQLite, HTMLX |
+| [Inception](https://github.com/Jburlama/inception) | A infrastructure composed of different services | Wordpress, Nginx, MariaDB, Docker, vsFTPd, Redis |
 
 
 
