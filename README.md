@@ -1,10 +1,6 @@
 # ⭐ Hello there!!
 
-👋 My name is **Jhonas**, and I am a **software developer** 👨‍💻 from **42Porto**. 
-
-💻 On my GitHub, you will find a variety of my personal projects, as well as projects from 42 school and other certificates 🏅.
-
-🐍 I am most comfortable working with **C, C++, Python, and SQL** 💾.
+* My name is Jhonas. I've been programming since 2023 and am currently improving my skills at 42Porto.
 
 -----------------------------------
 
