@@ -21,11 +21,3 @@
 [![Webserv](https://github.com/0bvim/42-project-badges/blob/main/badges/webservm.png)](https://github.com/jburlama/webserv)
 
 ---------------------------------
-
-
-### Harvard's CS50 completed courses
-
-- ![CS50-SQL](https://github.com/Jburlama/CS50-SQL)
-- ![CS50-Python](https://github.com/Jburlama/CS50-Python)
-
-
