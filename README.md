@@ -1,4 +1,11 @@
 
+
+![pixel-jeff-waiting-ll-2](https://github.com/user-attachments/assets/b084c1b3-1a0d-4bf2-8d36-01e1487625de)
+
+
+---------------------------------
+
+
 # ⭐ 42 Common Core
 
 [![libft](https://github.com/user-attachments/assets/2b732813-6fd0-4853-b026-8838129aa1f4)](https://github.com/Jburlama/libft)
@@ -17,11 +24,6 @@
 
 ---------------------------------
 
-
-![pixel-jeff-waiting-ll-2](https://github.com/user-attachments/assets/b084c1b3-1a0d-4bf2-8d36-01e1487625de)
-
-
----------------------------------
 
 ### Harvard's CS50 completed courses
 
